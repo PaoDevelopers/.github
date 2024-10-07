@@ -2,9 +2,9 @@
 
 The **unofficial** organization of developers in YK Pao School.
 
-This organization was intended to promote cooperation and communication among developers in the school. E.g., Reviewing code for your peers, opening issues, and hatching collaboration projects.
+This organization intends to promote cooperation and communication among developers in the school. E.g. reviewing code for your peers, opening issues, and hatching collaboration projects.
 
-Feel free to store any script/software you write for the school here. If it already exists, you can migrate them here.
+Feel free to store any scripts/software you write for school here. If it already exists, you can migrate them here.
 
 **非官方**的YK Pao开发者组织。
 
