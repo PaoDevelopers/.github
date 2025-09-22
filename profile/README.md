@@ -1,7 +1,5 @@
 # Pao Developers
 
-The **unofficial** organization of developers in YK Pao School.
+This organization contains projects by various students at YK Pao School, for projects related to school infrastructure or school work.
 
-This organization intends to promote cooperation and communication among developers in the school. E.g. reviewing code for your peers, opening issues, and hatching collaboration projects.
-
-Feel free to store any scripts/software you write for school here.
+This organization is **unofficial**. It is not endorsed by, and does not represent, the school administration in any way.
